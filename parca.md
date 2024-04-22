@@ -19,6 +19,10 @@
 - 27.8mm (R) x 27mm (h)
 - 22,64g
 - ₺300
+## Tower Pro MG996R
+- 40.7mm x 19.7mm x 42.9mm
+- 55g
+- ₺165
 ## JetFire 4S 4200mAh 14.8V
 - 135mm x 43mm x 32mm
 - 410g
