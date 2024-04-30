@@ -42,7 +42,7 @@
 - 27.8mm (R) x 27mm (h)
 - KV: 1400
 - Çalışma Voltajı : 2-3 Li-xx Batarya Maks. : 12.6V
-- 22,64g
+- 65g
 - ₺300
 ## Tower Pro MG996R
 - 40.7mm x 19.7mm x 42.9mm
