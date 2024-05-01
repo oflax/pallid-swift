@@ -64,6 +64,12 @@
 - Çalışma Voltajı: 3-5V
 - 10g
 - ₺310
+## Gy-273
+- 18mm x 14mm
+- Çalışma Voltajı: 3-5V
+- 70mA-200mA
+- 10g
+- ₺100
 ## Raspberry Pi HQ Camera
 - Sensor: Sony IMX477R stacked, backlit sensor
 - 12.3 megapixels
